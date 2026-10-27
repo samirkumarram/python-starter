@@ -1,4 +1,5 @@
 # FDE service template
+Author : Samir Kumar Ram (@samirkumarram)
 
 This is the starting point for every trainee repository. It already has the layout, tooling,
 container files and checks that the Technical Playbook asks for, so you spend your time on
