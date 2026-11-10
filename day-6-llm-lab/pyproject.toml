@@ -1,0 +1,19 @@
+[project]
+name = "day-6-llm-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Samir Kumar Ram", email = "samir.ram@saksoft.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "tiktoken>=0.14.0",
+]
+
+[project.scripts]
+day-6-llm-lab = "day_6_llm_lab:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"

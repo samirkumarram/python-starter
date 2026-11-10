@@ -1,0 +1,602 @@
+[
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-001\nPolicy Name: Leave Policy"
+    },
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's leave policy."
+    },
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance."
+    },
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nEmergency leave can be approved by the HR manager."
+    },
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_01.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-002\nPolicy Name: Work From Home Policy"
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's work from home policy."
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees can work from home up to 2 days per week. Requests must be approved by the reporting manager."
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nEmployees handling restricted office equipment must work from the office."
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_02.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-003\nPolicy Name: Data Security Policy"
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's data security policy."
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days."
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nSecurity administrators can enforce immediate password resets."
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_03.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-004\nPolicy Name: Password Policy"
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's password policy."
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nPasswords must contain uppercase letters, lowercase letters, numbers and special characters. Password sharing is prohibited."
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nTemporary passwords must be changed at first login."
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_04.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-005\nPolicy Name: Employee Attendance Policy"
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's employee attendance policy."
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees must complete 8 working hours daily. Attendance must be recorded using the official attendance system."
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nApproved business travel is exempt from office check-in."
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_05.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-006\nPolicy Name: Remote Access Policy"
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's remote access policy."
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nRemote access is permitted only through the company VPN. Multi-factor authentication is mandatory."
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nIT administrators may temporarily disable access during security incidents."
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_06.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-007\nPolicy Name: Email Usage Policy"
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's email usage policy."
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCompany email accounts must be used for official communication. Employees must not share confidential information through personal email."
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nHR-approved external communication is permitted."
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_07.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-008\nPolicy Name: Device Usage Policy"
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's device usage policy."
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCompany laptops must use approved antivirus software and automatic screen locking. Employees must not install unauthorized applications."
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nIT support can approve software installations."
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_08.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-009\nPolicy Name: Incident Reporting Policy"
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's incident reporting policy."
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees must report security incidents to the IT security team within 30 minutes of discovery."
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nCritical incidents must be escalated immediately to the security manager."
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_09.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-010\nPolicy Name: Data Retention Policy"
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's data retention policy."
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCustomer transaction records must be retained for 7 years. Access to archived records requires authorization."
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nLegal holds can extend the retention period."
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_10.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-011\nPolicy Name: Customer Privacy Policy"
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's customer privacy policy."
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCustomer personal information must only be accessed for legitimate business purposes. Unauthorized disclosure is prohibited."
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nDisclosure required by law must be approved by the legal team."
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_11.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-012\nPolicy Name: Access Control Policy"
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's access control policy."
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees receive access based on their job responsibilities. Managers must review access permissions every 6 months."
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nEmergency access requires security team approval."
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_12.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-013\nPolicy Name: Backup Policy"
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's backup policy."
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCritical business databases must be backed up daily. Backup copies must be stored in a separate secure location."
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nIT administrators must verify backup restoration every quarter."
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_13.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-014\nPolicy Name: Business Continuity Policy"
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's business continuity policy."
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nCritical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually."
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nThe business continuity manager can declare a disaster."
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_14.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-015\nPolicy Name: Software Development Policy"
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's software development policy."
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nAll production code changes require peer review and automated testing. Direct changes to production systems are prohibited."
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nEmergency fixes require approval from the engineering manager."
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_15.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-016\nPolicy Name: Vendor Management Policy"
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's vendor management policy."
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nAll vendors must pass security assessment before accessing company systems. Vendor agreements must define data protection responsibilities."
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nHigh-risk vendors require additional security reviews."
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_16.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-017\nPolicy Name: Expense Reimbursement Policy"
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's expense reimbursement policy."
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees can claim approved business travel expenses within 30 days. Receipts are required for expenses above 500 rupees."
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nExceptions require finance department approval."
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_17.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-018\nPolicy Name: Training Policy"
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's training policy."
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees must complete mandatory security awareness training every year. Training completion is tracked by HR."
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nNew employees must complete training within 30 days of joining."
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_18.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-019\nPolicy Name: Mobile Device Policy"
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's mobile device policy."
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees accessing company data on mobile devices must enable device encryption and screen locking."
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nLost or stolen devices must be reported to IT within 1 hour."
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_19.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 0,
+        "text": "Policy ID: POL-020\nPolicy Name: Employee Exit Policy"
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 1,
+        "text": "Purpose:\nThis document defines the organization's employee exit policy."
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 2,
+        "text": "Policy Rules:\nEmployees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure."
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 3,
+        "text": "Exceptions:\nHR can request immediate access revocation."
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 4,
+        "text": "Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy."
+    },
+    {
+        "document": "policy_20.txt",
+        "chunk_id": 5,
+        "text": "Review:\nThis policy must be reviewed annually."
+    }
+]

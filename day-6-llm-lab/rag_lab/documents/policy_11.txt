@@ -1,0 +1,18 @@
+Policy ID: POL-011
+Policy Name: Customer Privacy Policy
+
+Purpose:
+This document defines the organization's customer privacy policy.
+
+Policy Rules:
+Customer personal information must only be accessed for legitimate business purposes. Unauthorized disclosure is prohibited.
+
+Exceptions:
+Disclosure required by law must be approved by the legal team.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

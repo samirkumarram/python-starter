@@ -1,0 +1,18 @@
+Policy ID: POL-009
+Policy Name: Incident Reporting Policy
+
+Purpose:
+This document defines the organization's incident reporting policy.
+
+Policy Rules:
+Employees must report security incidents to the IT security team within 30 minutes of discovery.
+
+Exceptions:
+Critical incidents must be escalated immediately to the security manager.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

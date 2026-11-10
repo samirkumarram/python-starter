@@ -1,0 +1,18 @@
+Policy ID: POL-016
+Policy Name: Vendor Management Policy
+
+Purpose:
+This document defines the organization's vendor management policy.
+
+Policy Rules:
+All vendors must pass security assessment before accessing company systems. Vendor agreements must define data protection responsibilities.
+
+Exceptions:
+High-risk vendors require additional security reviews.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

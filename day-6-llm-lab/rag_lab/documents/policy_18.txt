@@ -1,0 +1,18 @@
+Policy ID: POL-018
+Policy Name: Training Policy
+
+Purpose:
+This document defines the organization's training policy.
+
+Policy Rules:
+Employees must complete mandatory security awareness training every year. Training completion is tracked by HR.
+
+Exceptions:
+New employees must complete training within 30 days of joining.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

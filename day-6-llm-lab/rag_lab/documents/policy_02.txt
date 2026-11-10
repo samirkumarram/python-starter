@@ -1,0 +1,18 @@
+Policy ID: POL-002
+Policy Name: Work From Home Policy
+
+Purpose:
+This document defines the organization's work from home policy.
+
+Policy Rules:
+Employees can work from home up to 2 days per week. Requests must be approved by the reporting manager.
+
+Exceptions:
+Employees handling restricted office equipment must work from the office.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

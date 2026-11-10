@@ -1,0 +1,18 @@
+Policy ID: POL-003
+Policy Name: Data Security Policy
+
+Purpose:
+This document defines the organization's data security policy.
+
+Policy Rules:
+Employees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days.
+
+Exceptions:
+Security administrators can enforce immediate password resets.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

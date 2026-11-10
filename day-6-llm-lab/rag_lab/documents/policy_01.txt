@@ -1,0 +1,18 @@
+Policy ID: POL-001
+Policy Name: Leave Policy
+
+Purpose:
+This document defines the organization's leave policy.
+
+Policy Rules:
+Employees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance.
+
+Exceptions:
+Emergency leave can be approved by the HR manager.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

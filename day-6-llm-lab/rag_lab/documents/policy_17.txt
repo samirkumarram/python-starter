@@ -1,0 +1,18 @@
+Policy ID: POL-017
+Policy Name: Expense Reimbursement Policy
+
+Purpose:
+This document defines the organization's expense reimbursement policy.
+
+Policy Rules:
+Employees can claim approved business travel expenses within 30 days. Receipts are required for expenses above 500 rupees.
+
+Exceptions:
+Exceptions require finance department approval.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

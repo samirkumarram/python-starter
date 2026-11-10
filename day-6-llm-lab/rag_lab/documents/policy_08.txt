@@ -1,0 +1,18 @@
+Policy ID: POL-008
+Policy Name: Device Usage Policy
+
+Purpose:
+This document defines the organization's device usage policy.
+
+Policy Rules:
+Company laptops must use approved antivirus software and automatic screen locking. Employees must not install unauthorized applications.
+
+Exceptions:
+IT support can approve software installations.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.
