@@ -1,0 +1,18 @@
+Policy ID: POL-007
+Policy Name: Email Usage Policy
+
+Purpose:
+This document defines the organization's email usage policy.
+
+Policy Rules:
+Company email accounts must be used for official communication. Employees must not share confidential information through personal email.
+
+Exceptions:
+HR-approved external communication is permitted.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

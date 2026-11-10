@@ -1,0 +1,18 @@
+Policy ID: POL-019
+Policy Name: Mobile Device Policy
+
+Purpose:
+This document defines the organization's mobile device policy.
+
+Policy Rules:
+Employees accessing company data on mobile devices must enable device encryption and screen locking.
+
+Exceptions:
+Lost or stolen devices must be reported to IT within 1 hour.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

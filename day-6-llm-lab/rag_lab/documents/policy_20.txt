@@ -1,0 +1,18 @@
+Policy ID: POL-020
+Policy Name: Employee Exit Policy
+
+Purpose:
+This document defines the organization's employee exit policy.
+
+Policy Rules:
+Employees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure.
+
+Exceptions:
+HR can request immediate access revocation.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

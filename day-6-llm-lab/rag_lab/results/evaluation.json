@@ -1,0 +1,803 @@
+{
+  "fixed_size": {
+    "recall_at_3": 1.0,
+    "correct_retrievals": 10,
+    "total_questions": 10,
+    "results": [
+      {
+        "question": "How many paid leave days do employees receive annually?",
+        "expected_document": "policy_01.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-001 Policy Name: Leave Policy Purpose: This document defines the organization's leave policy. Policy Rules: Employees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions: Emergency leave can be approved by the HR manager.",
+            "similarity": 0.7972946950987168
+          },
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-005 Policy Name: Employee Attendance Policy Purpose: This document defines the organization's employee attendance policy. Policy Rules: Employees must complete 8 working hours daily. Attendance must be recorded using the official attendance system. Exceptions: Approved business travel is exempt from office check-in. Responsibility: The relevant department is responsible",
+            "similarity": 0.6759312852410193
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-020 Policy Name: Employee Exit Policy Purpose: This document defines the organization's employee exit policy. Policy Rules: Employees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure. Exceptions: HR can request immediate access revocation. Responsibility:",
+            "similarity": 0.674881255021074
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Employees receive 20 days of paid leave annually."
+      },
+      {
+        "question": "How many days per week can employees work from home?",
+        "expected_document": "policy_02.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-002 Policy Name: Work From Home Policy Purpose: This document defines the organization's work from home policy. Policy Rules: Employees can work from home up to 2 days per week. Requests must be approved by the reporting manager. Exceptions: Employees handling restricted office equipment must work from the",
+            "similarity": 0.8358235528742315
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-001 Policy Name: Leave Policy Purpose: This document defines the organization's leave policy. Policy Rules: Employees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions: Emergency leave can be approved by the HR manager.",
+            "similarity": 0.6748080925500204
+          },
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-005 Policy Name: Employee Attendance Policy Purpose: This document defines the organization's employee attendance policy. Policy Rules: Employees must complete 8 working hours daily. Attendance must be recorded using the official attendance system. Exceptions: Approved business travel is exempt from office check-in. Responsibility: The relevant department is responsible",
+            "similarity": 0.6595687764481677
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "According to Policy ID: POL-002, employees can work from home up to 2 days per week."
+      },
+      {
+        "question": "What is the minimum password length?",
+        "expected_document": "policy_03.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-003 Policy Name: Data Security Policy Purpose: This document defines the organization's data security policy. Policy Rules: Employees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days. Exceptions: Security administrators can enforce immediate password resets. Responsibility: The relevant department is responsible",
+            "similarity": 0.6603089375942632
+          },
+          {
+            "document": "policy_04.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-004 Policy Name: Password Policy Purpose: This document defines the organization's password policy. Policy Rules: Passwords must contain uppercase letters, lowercase letters, numbers and special characters. Password sharing is prohibited. Exceptions: Temporary passwords must be changed at first login. Responsibility: The relevant department is responsible for implementing and",
+            "similarity": 0.656068743321106
+          },
+          {
+            "document": "policy_19.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-019 Policy Name: Mobile Device Policy Purpose: This document defines the organization's mobile device policy. Policy Rules: Employees accessing company data on mobile devices must enable device encryption and screen locking. Exceptions: Lost or stolen devices must be reported to IT within 1 hour. Responsibility: The relevant department",
+            "similarity": 0.5815005497640136
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "The minimum password length is 12 characters."
+      },
+      {
+        "question": "How many working hours must employees complete daily?",
+        "expected_document": "policy_05.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-005 Policy Name: Employee Attendance Policy Purpose: This document defines the organization's employee attendance policy. Policy Rules: Employees must complete 8 working hours daily. Attendance must be recorded using the official attendance system. Exceptions: Approved business travel is exempt from office check-in. Responsibility: The relevant department is responsible",
+            "similarity": 0.7472505870011761
+          },
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-002 Policy Name: Work From Home Policy Purpose: This document defines the organization's work from home policy. Policy Rules: Employees can work from home up to 2 days per week. Requests must be approved by the reporting manager. Exceptions: Employees handling restricted office equipment must work from the",
+            "similarity": 0.6891702694755212
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-001 Policy Name: Leave Policy Purpose: This document defines the organization's leave policy. Policy Rules: Employees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions: Emergency leave can be approved by the HR manager.",
+            "similarity": 0.684424368706775
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Based on Policy ID: POL-005 (Employee Attendance Policy), employees must complete 8 working hours daily."
+      },
+      {
+        "question": "Is multi-factor authentication required for remote access?",
+        "expected_document": "policy_06.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_06.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-006 Policy Name: Remote Access Policy Purpose: This document defines the organization's remote access policy. Policy Rules: Remote access is permitted only through the company VPN. Multi-factor authentication is mandatory. Exceptions: IT administrators may temporarily disable access during security incidents. Responsibility: The relevant department is responsible for implementing",
+            "similarity": 0.7435569136438877
+          },
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-003 Policy Name: Data Security Policy Purpose: This document defines the organization's data security policy. Policy Rules: Employees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days. Exceptions: Security administrators can enforce immediate password resets. Responsibility: The relevant department is responsible",
+            "similarity": 0.601512538287087
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-012 Policy Name: Access Control Policy Purpose: This document defines the organization's access control policy. Policy Rules: Employees receive access based on their job responsibilities. Managers must review access permissions every 6 months. Exceptions: Emergency access requires security team approval. Responsibility: The relevant department is responsible for implementing",
+            "similarity": 0.5847976056837977
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Yes, according to Policy ID: POL-006, Multi-factor authentication is mandatory for remote access."
+      },
+      {
+        "question": "Within how many minutes must security incidents be reported?",
+        "expected_document": "policy_09.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-009 Policy Name: Incident Reporting Policy Purpose: This document defines the organization's incident reporting policy. Policy Rules: Employees must report security incidents to the IT security team within 30 minutes of discovery. Exceptions: Critical incidents must be escalated immediately to the security manager. Responsibility: The relevant department is",
+            "similarity": 0.8279608650254223
+          },
+          {
+            "document": "policy_18.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-018 Policy Name: Training Policy Purpose: This document defines the organization's training policy. Policy Rules: Employees must complete mandatory security awareness training every year. Training completion is tracked by HR. Exceptions: New employees must complete training within 30 days of joining. Responsibility: The relevant department is responsible for",
+            "similarity": 0.650851166431981
+          },
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-003 Policy Name: Data Security Policy Purpose: This document defines the organization's data security policy. Policy Rules: Employees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days. Exceptions: Security administrators can enforce immediate password resets. Responsibility: The relevant department is responsible",
+            "similarity": 0.6493463349054175
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "30 minutes"
+      },
+      {
+        "question": "How long must customer transaction records be retained?",
+        "expected_document": "policy_10.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_10.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-010 Policy Name: Data Retention Policy Purpose: This document defines the organization's data retention policy. Policy Rules: Customer transaction records must be retained for 7 years. Access to archived records requires authorization. Exceptions: Legal holds can extend the retention period. Responsibility: The relevant department is responsible for implementing",
+            "similarity": 0.8237480671061013
+          },
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-014 Policy Name: Business Continuity Policy Purpose: This document defines the organization's business continuity policy. Policy Rules: Critical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually. Exceptions: The business continuity manager can declare a disaster. Responsibility:",
+            "similarity": 0.6456443680327035
+          },
+          {
+            "document": "policy_17.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-017 Policy Name: Expense Reimbursement Policy Purpose: This document defines the organization's expense reimbursement policy. Policy Rules: Employees can claim approved business travel expenses within 30 days. Receipts are required for expenses above 500 rupees. Exceptions: Exceptions require finance department approval. Responsibility: The relevant department is responsible for",
+            "similarity": 0.6199509522199365
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "7 years"
+      },
+      {
+        "question": "How often must critical business databases be backed up?",
+        "expected_document": "policy_13.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-013 Policy Name: Backup Policy Purpose: This document defines the organization's backup policy. Policy Rules: Critical business databases must be backed up daily. Backup copies must be stored in a separate secure location. Exceptions: IT administrators must verify backup restoration every quarter. Responsibility: The relevant department is responsible",
+            "similarity": 0.7139276168295858
+          },
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-014 Policy Name: Business Continuity Policy Purpose: This document defines the organization's business continuity policy. Policy Rules: Critical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually. Exceptions: The business continuity manager can declare a disaster. Responsibility:",
+            "similarity": 0.712807095890103
+          },
+          {
+            "document": "policy_10.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-010 Policy Name: Data Retention Policy Purpose: This document defines the organization's data retention policy. Policy Rules: Customer transaction records must be retained for 7 years. Access to archived records requires authorization. Exceptions: Legal holds can extend the retention period. Responsibility: The relevant department is responsible for implementing",
+            "similarity": 0.6460185157218407
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the maximum recovery time for critical business applications?",
+        "expected_document": "policy_14.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-014 Policy Name: Business Continuity Policy Purpose: This document defines the organization's business continuity policy. Policy Rules: Critical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually. Exceptions: The business continuity manager can declare a disaster. Responsibility:",
+            "similarity": 0.7303941442743509
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-020 Policy Name: Employee Exit Policy Purpose: This document defines the organization's employee exit policy. Policy Rules: Employees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure. Exceptions: HR can request immediate access revocation. Responsibility:",
+            "similarity": 0.6092928209933579
+          },
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-009 Policy Name: Incident Reporting Policy Purpose: This document defines the organization's incident reporting policy. Policy Rules: Employees must report security incidents to the IT security team within 30 minutes of discovery. Exceptions: Critical incidents must be escalated immediately to the security manager. Responsibility: The relevant department is",
+            "similarity": 0.6013242793168
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "According to Policy ID: POL-014, Critical business applications must be restored within 4 hours of a major outage."
+      },
+      {
+        "question": "When must IT revoke system access after an employee leaves?",
+        "expected_document": "policy_20.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-020 Policy Name: Employee Exit Policy Purpose: This document defines the organization's employee exit policy. Policy Rules: Employees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure. Exceptions: HR can request immediate access revocation. Responsibility:",
+            "similarity": 0.8179948099651624
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-012 Policy Name: Access Control Policy Purpose: This document defines the organization's access control policy. Policy Rules: Employees receive access based on their job responsibilities. Managers must review access permissions every 6 months. Exceptions: Emergency access requires security team approval. Responsibility: The relevant department is responsible for implementing",
+            "similarity": 0.6685634343895515
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-001 Policy Name: Leave Policy Purpose: This document defines the organization's leave policy. Policy Rules: Employees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions: Emergency leave can be approved by the HR manager.",
+            "similarity": 0.6629536117500522
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "IT must revoke system access within 24 hours of departure."
+      }
+    ]
+  },
+  "sentence_based": {
+    "recall_at_3": 1.0,
+    "correct_retrievals": 10,
+    "total_questions": 10,
+    "results": [
+      {
+        "question": "How many paid leave days do employees receive annually?",
+        "expected_document": "policy_01.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-001\nPolicy Name: Leave Policy\n\nPurpose:\nThis document defines the organization's leave policy. Policy Rules:\nEmployees receive 20 days of paid leave annually.",
+            "similarity": 0.7841210212948071
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 1,
+            "text": "Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions:\nEmergency leave can be approved by the HR manager.",
+            "similarity": 0.7337277797404939
+          },
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-005\nPolicy Name: Employee Attendance Policy\n\nPurpose:\nThis document defines the organization's employee attendance policy. Policy Rules:\nEmployees must complete 8 working hours daily.",
+            "similarity": 0.6824156155062145
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "20 days"
+      },
+      {
+        "question": "How many days per week can employees work from home?",
+        "expected_document": "policy_02.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-002\nPolicy Name: Work From Home Policy\n\nPurpose:\nThis document defines the organization's work from home policy. Policy Rules:\nEmployees can work from home up to 2 days per week.",
+            "similarity": 0.8321816003847442
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 1,
+            "text": "Leave requests must be submitted to the manager at least 3 working days in advance. Exceptions:\nEmergency leave can be approved by the HR manager.",
+            "similarity": 0.6954146139754487
+          },
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 1,
+            "text": "Requests must be approved by the reporting manager. Exceptions:\nEmployees handling restricted office equipment must work from the office.",
+            "similarity": 0.6670705893881288
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Employees can work from home up to 2 days per week."
+      },
+      {
+        "question": "What is the minimum password length?",
+        "expected_document": "policy_03.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_04.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-004\nPolicy Name: Password Policy\n\nPurpose:\nThis document defines the organization's password policy. Policy Rules:\nPasswords must contain uppercase letters, lowercase letters, numbers and special characters.",
+            "similarity": 0.6644934451907423
+          },
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-003\nPolicy Name: Data Security Policy\n\nPurpose:\nThis document defines the organization's data security policy. Policy Rules:\nEmployees must use strong passwords with at least 12 characters.",
+            "similarity": 0.6598229388314988
+          },
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 1,
+            "text": "Passwords must be changed every 90 days. Exceptions:\nSecurity administrators can enforce immediate password resets.",
+            "similarity": 0.6251092364428465
+          }
+        ],
+        "retrieval_success": true,
+        "answer": ""
+      },
+      {
+        "question": "How many working hours must employees complete daily?",
+        "expected_document": "policy_05.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-005\nPolicy Name: Employee Attendance Policy\n\nPurpose:\nThis document defines the organization's employee attendance policy. Policy Rules:\nEmployees must complete 8 working hours daily.",
+            "similarity": 0.7705840249999446
+          },
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-002\nPolicy Name: Work From Home Policy\n\nPurpose:\nThis document defines the organization's work from home policy. Policy Rules:\nEmployees can work from home up to 2 days per week.",
+            "similarity": 0.688812147324327
+          },
+          {
+            "document": "policy_18.txt",
+            "chunk_id": 1,
+            "text": "Training completion is tracked by HR. Exceptions:\nNew employees must complete training within 30 days of joining.",
+            "similarity": 0.6808532722293846
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Employees must complete 8 working hours daily."
+      },
+      {
+        "question": "Is multi-factor authentication required for remote access?",
+        "expected_document": "policy_06.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_06.txt",
+            "chunk_id": 1,
+            "text": "Multi-factor authentication is mandatory. Exceptions:\nIT administrators may temporarily disable access during security incidents.",
+            "similarity": 0.8306203897860722
+          },
+          {
+            "document": "policy_06.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-006\nPolicy Name: Remote Access Policy\n\nPurpose:\nThis document defines the organization's remote access policy. Policy Rules:\nRemote access is permitted only through the company VPN.",
+            "similarity": 0.6651687566737351
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 1,
+            "text": "Managers must review access permissions every 6 months. Exceptions:\nEmergency access requires security team approval.",
+            "similarity": 0.6436679107523412
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Yes, multi-factor authentication is required for remote access according to the policy. However, exceptions are allowed where IT administrators may temporarily disable access during security incidents."
+      },
+      {
+        "question": "Within how many minutes must security incidents be reported?",
+        "expected_document": "policy_09.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-009\nPolicy Name: Incident Reporting Policy\n\nPurpose:\nThis document defines the organization's incident reporting policy. Policy Rules:\nEmployees must report security incidents to the IT security team within 30 minutes of discovery.",
+            "similarity": 0.815894986071527
+          },
+          {
+            "document": "policy_19.txt",
+            "chunk_id": 1,
+            "text": "Exceptions:\nLost or stolen devices must be reported to IT within 1 hour. Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy.",
+            "similarity": 0.7525754246250792
+          },
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 1,
+            "text": "Exceptions:\nCritical incidents must be escalated immediately to the security manager. Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy.",
+            "similarity": 0.7136469402354368
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "30 minutes"
+      },
+      {
+        "question": "How long must customer transaction records be retained?",
+        "expected_document": "policy_10.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_10.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-010\nPolicy Name: Data Retention Policy\n\nPurpose:\nThis document defines the organization's data retention policy. Policy Rules:\nCustomer transaction records must be retained for 7 years.",
+            "similarity": 0.823508303436331
+          },
+          {
+            "document": "policy_19.txt",
+            "chunk_id": 1,
+            "text": "Exceptions:\nLost or stolen devices must be reported to IT within 1 hour. Responsibility:\nThe relevant department is responsible for implementing\nand monitoring this policy.",
+            "similarity": 0.6553829554540214
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 1,
+            "text": "IT must revoke system access within 24 hours of departure. Exceptions:\nHR can request immediate access revocation.",
+            "similarity": 0.647104193086382
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Based on the provided context, customer transaction records must be retained for 7 years."
+      },
+      {
+        "question": "How often must critical business databases be backed up?",
+        "expected_document": "policy_13.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-014\nPolicy Name: Business Continuity Policy\n\nPurpose:\nThis document defines the organization's business continuity policy. Policy Rules:\nCritical business applications must be restored within 4 hours of a major outage.",
+            "similarity": 0.710717442844989
+          },
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-013\nPolicy Name: Backup Policy\n\nPurpose:\nThis document defines the organization's backup policy. Policy Rules:\nCritical business databases must be backed up daily.",
+            "similarity": 0.6962063117110805
+          },
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 1,
+            "text": "The disaster recovery plan must be tested annually. Exceptions:\nThe business continuity manager can declare a disaster.",
+            "similarity": 0.6733982230960306
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Critical business databases must be backed up daily."
+      },
+      {
+        "question": "What is the maximum recovery time for critical business applications?",
+        "expected_document": "policy_14.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-014\nPolicy Name: Business Continuity Policy\n\nPurpose:\nThis document defines the organization's business continuity policy. Policy Rules:\nCritical business applications must be restored within 4 hours of a major outage.",
+            "similarity": 0.7350578861756462
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 1,
+            "text": "IT must revoke system access within 24 hours of departure. Exceptions:\nHR can request immediate access revocation.",
+            "similarity": 0.6755783909127587
+          },
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 1,
+            "text": "The disaster recovery plan must be tested annually. Exceptions:\nThe business continuity manager can declare a disaster.",
+            "similarity": 0.6392015907568538
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "According to Policy ID POL-014, Critical business applications must be restored within **4 hours** of a major outage."
+      },
+      {
+        "question": "When must IT revoke system access after an employee leaves?",
+        "expected_document": "policy_20.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 1,
+            "text": "IT must revoke system access within 24 hours of departure. Exceptions:\nHR can request immediate access revocation.",
+            "similarity": 0.8559459408196848
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 1,
+            "text": "Managers must review access permissions every 6 months. Exceptions:\nEmergency access requires security team approval.",
+            "similarity": 0.704736973322367
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-020\nPolicy Name: Employee Exit Policy\n\nPurpose:\nThis document defines the organization's employee exit policy. Policy Rules:\nEmployees leaving the company must return company assets on their last working day.",
+            "similarity": 0.6990615568921179
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "IT must revoke system access within 24 hours of departure."
+      }
+    ]
+  },
+  "paragraph_based": {
+    "recall_at_3": 1.0,
+    "correct_retrievals": 10,
+    "total_questions": 10,
+    "results": [
+      {
+        "question": "How many paid leave days do employees receive annually?",
+        "expected_document": "policy_01.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance.",
+            "similarity": 0.8814435233712368
+          },
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees must complete 8 working hours daily. Attendance must be recorded using the official attendance system.",
+            "similarity": 0.7235857840090205
+          },
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees can work from home up to 2 days per week. Requests must be approved by the reporting manager.",
+            "similarity": 0.7213948628331175
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Employees receive 20 days of paid leave annually."
+      },
+      {
+        "question": "How many days per week can employees work from home?",
+        "expected_document": "policy_02.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees can work from home up to 2 days per week. Requests must be approved by the reporting manager.",
+            "similarity": 0.9160756005877025
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance.",
+            "similarity": 0.7303523395197417
+          },
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees must complete 8 working hours daily. Attendance must be recorded using the official attendance system.",
+            "similarity": 0.7207038401513199
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Based on the context, employees can work from home up to 2 days per week."
+      },
+      {
+        "question": "What is the minimum password length?",
+        "expected_document": "policy_03.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_03.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees must use strong passwords with at least 12 characters. Passwords must be changed every 90 days.",
+            "similarity": 0.6811534474811304
+          },
+          {
+            "document": "policy_04.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nPasswords must contain uppercase letters, lowercase letters, numbers and special characters. Password sharing is prohibited.",
+            "similarity": 0.6771838425376686
+          },
+          {
+            "document": "policy_04.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-004\nPolicy Name: Password Policy",
+            "similarity": 0.6238467598073244
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "According to the context, employees must use strong passwords with at least 12 characters."
+      },
+      {
+        "question": "How many working hours must employees complete daily?",
+        "expected_document": "policy_05.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_05.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees must complete 8 working hours daily. Attendance must be recorded using the official attendance system.",
+            "similarity": 0.8477224250620162
+          },
+          {
+            "document": "policy_02.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees can work from home up to 2 days per week. Requests must be approved by the reporting manager.",
+            "similarity": 0.7351097349149546
+          },
+          {
+            "document": "policy_01.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees receive 20 days of paid leave annually. Leave requests must be submitted to the manager at least 3 working days in advance.",
+            "similarity": 0.7279855564419656
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Employees must complete 8 working hours daily."
+      },
+      {
+        "question": "Is multi-factor authentication required for remote access?",
+        "expected_document": "policy_06.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_06.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nRemote access is permitted only through the company VPN. Multi-factor authentication is mandatory.",
+            "similarity": 0.838446149779338
+          },
+          {
+            "document": "policy_06.txt",
+            "chunk_id": 0,
+            "text": "Policy ID: POL-006\nPolicy Name: Remote Access Policy",
+            "similarity": 0.6441740406579458
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 3,
+            "text": "Exceptions:\nEmergency access requires security team approval.",
+            "similarity": 0.639327736438214
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Yes, according to the Policy Rules section in the context (\"Multi-factor authentication is mandatory\"), multi-factor authentication is required for remote access."
+      },
+      {
+        "question": "Within how many minutes must security incidents be reported?",
+        "expected_document": "policy_09.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees must report security incidents to the IT security team within 30 minutes of discovery.",
+            "similarity": 0.8692406065151278
+          },
+          {
+            "document": "policy_19.txt",
+            "chunk_id": 3,
+            "text": "Exceptions:\nLost or stolen devices must be reported to IT within 1 hour.",
+            "similarity": 0.7453092227173822
+          },
+          {
+            "document": "policy_09.txt",
+            "chunk_id": 3,
+            "text": "Exceptions:\nCritical incidents must be escalated immediately to the security manager.",
+            "similarity": 0.7217636310884719
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Based on the provided context, employees must report security incidents within **30 minutes** of discovery."
+      },
+      {
+        "question": "How long must customer transaction records be retained?",
+        "expected_document": "policy_10.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_10.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCustomer transaction records must be retained for 7 years. Access to archived records requires authorization.",
+            "similarity": 0.9218495456363188
+          },
+          {
+            "document": "policy_17.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees can claim approved business travel expenses within 30 days. Receipts are required for expenses above 500 rupees.",
+            "similarity": 0.6747840871468518
+          },
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCritical business databases must be backed up daily. Backup copies must be stored in a separate secure location.",
+            "similarity": 0.6682758684958199
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Customer transaction records must be retained for 7 years."
+      },
+      {
+        "question": "How often must critical business databases be backed up?",
+        "expected_document": "policy_13.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCritical business databases must be backed up daily. Backup copies must be stored in a separate secure location.",
+            "similarity": 0.8702094841037366
+          },
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCritical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually.",
+            "similarity": 0.7587334477670314
+          },
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 3,
+            "text": "Exceptions:\nIT administrators must verify backup restoration every quarter.",
+            "similarity": 0.7011076101520559
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the maximum recovery time for critical business applications?",
+        "expected_document": "policy_14.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_14.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCritical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually.",
+            "similarity": 0.8347031006634965
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure.",
+            "similarity": 0.6620999021037298
+          },
+          {
+            "document": "policy_13.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nCritical business databases must be backed up daily. Backup copies must be stored in a separate secure location.",
+            "similarity": 0.6563696357266732
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "4 hours"
+      },
+      {
+        "question": "When must IT revoke system access after an employee leaves?",
+        "expected_document": "policy_20.txt",
+        "retrieved_chunks": [
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees leaving the company must return company assets on their last working day. IT must revoke system access within 24 hours of departure.",
+            "similarity": 0.8665114778487613
+          },
+          {
+            "document": "policy_12.txt",
+            "chunk_id": 2,
+            "text": "Policy Rules:\nEmployees receive access based on their job responsibilities. Managers must review access permissions every 6 months.",
+            "similarity": 0.7382799307146741
+          },
+          {
+            "document": "policy_20.txt",
+            "chunk_id": 3,
+            "text": "Exceptions:\nHR can request immediate access revocation.",
+            "similarity": 0.7223970323959974
+          }
+        ],
+        "retrieval_success": true,
+        "answer": "IT must revoke system access within 24 hours of departure."
+      }
+    ]
+  }
+}

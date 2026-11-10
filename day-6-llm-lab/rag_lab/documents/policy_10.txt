@@ -1,0 +1,18 @@
+Policy ID: POL-010
+Policy Name: Data Retention Policy
+
+Purpose:
+This document defines the organization's data retention policy.
+
+Policy Rules:
+Customer transaction records must be retained for 7 years. Access to archived records requires authorization.
+
+Exceptions:
+Legal holds can extend the retention period.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

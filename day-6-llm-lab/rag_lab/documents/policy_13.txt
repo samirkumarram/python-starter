@@ -1,0 +1,18 @@
+Policy ID: POL-013
+Policy Name: Backup Policy
+
+Purpose:
+This document defines the organization's backup policy.
+
+Policy Rules:
+Critical business databases must be backed up daily. Backup copies must be stored in a separate secure location.
+
+Exceptions:
+IT administrators must verify backup restoration every quarter.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

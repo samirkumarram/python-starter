@@ -1,0 +1,18 @@
+Policy ID: POL-014
+Policy Name: Business Continuity Policy
+
+Purpose:
+This document defines the organization's business continuity policy.
+
+Policy Rules:
+Critical business applications must be restored within 4 hours of a major outage. The disaster recovery plan must be tested annually.
+
+Exceptions:
+The business continuity manager can declare a disaster.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

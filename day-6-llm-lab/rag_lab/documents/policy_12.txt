@@ -1,0 +1,18 @@
+Policy ID: POL-012
+Policy Name: Access Control Policy
+
+Purpose:
+This document defines the organization's access control policy.
+
+Policy Rules:
+Employees receive access based on their job responsibilities. Managers must review access permissions every 6 months.
+
+Exceptions:
+Emergency access requires security team approval.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.

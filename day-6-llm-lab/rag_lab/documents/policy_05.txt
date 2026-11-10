@@ -1,0 +1,18 @@
+Policy ID: POL-005
+Policy Name: Employee Attendance Policy
+
+Purpose:
+This document defines the organization's employee attendance policy.
+
+Policy Rules:
+Employees must complete 8 working hours daily. Attendance must be recorded using the official attendance system.
+
+Exceptions:
+Approved business travel is exempt from office check-in.
+
+Responsibility:
+The relevant department is responsible for implementing
+and monitoring this policy.
+
+Review:
+This policy must be reviewed annually.
