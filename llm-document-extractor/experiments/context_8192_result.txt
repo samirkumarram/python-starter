@@ -1,0 +1,120 @@
+Based on the resumes provided, I have analyzed the candidates. There is a significant issue: **The same set of resumes appears multiple times** (e.g., Lars Lowe, Mira Marsh, Noor Nash appear three times). This suggests a data duplication error in the source list rather than distinct candidates.
+
+Below is a consolidated analysis of the unique profiles and a shortlist for hiring based on your criteria: **Clear tests, short pull requests, and relevant technical skills.**
+
+### 📊 Candidate Analysis & Shortlist
+
+#### 1. Lars Lowe (Delhi)
+*   **Role:** Backend Developer / Analyst
+*   **Experience:** 4 Years
+*   **Education:** M.Sc Statistics (2022)
+*   **Key Skills:** JavaScript, PostgreSQL, Docker, Java, FastAPI, Testing
+*   **Verdict:** **Strong Candidate.**
+    *   **Pros:** Strong backend stack (FastAPI/Java), has explicit testing experience, and uses Docker.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 2. Mira Marsh (Kochi)
+*   **Role:** Backend Developer / DevOps Engineer
+*   **Experience:** 2 Years
+*   **Education:** B.Sc Mathematics (2019)
+*   **Key Skills:** Docker, SQL, Excel, Python
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Solid backend skills with a focus on testing and clear code practices.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 3. Noor Nash (Kochi)
+*   **Role:** DevOps Engineer / Analyst
+*   **Experience:** 2 Years
+*   **Education:** B.E Electronics (2022)
+*   **Key Skills:** Jira, Python, Git, Java, Power BI
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Strong DevOps background with clear testing habits.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 4. Oren Orr (Chennai)
+*   **Role:** Analyst / Backend Developer
+*   **Experience:** 9 Years
+*   **Education:** B.E Electronics (2016)
+*   **Key Skills:** Docker, Python, Excel, Java
+*   **Verdict:** **Strong Candidate.**
+    *   **Pros:** Longest experience (9 years), extensive backend history.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 5. Pia Penn (Bengaluru)
+*   **Role:** Analyst / Backend Developer
+*   **Experience:** 6 Years
+*   **Education:** B.Tech Computer Science (2019)
+*   **Key Skills:** Java, JavaScript, Jira, AWS basics, Git, SQL
+*   **Verdict:** **Strong Candidate.**
+    *   **Pros:** Deep experience in backend development and DevOps.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 6. Quin Quill (Kochi)
+*   **Role:** Analyst / Software Engineer
+*   **Experience:** 8 Years
+*   **Education:** B.Sc Mathematics (2017)
+*   **Key Skills:** JavaScript, AWS basics, Linux, Excel, Testing
+*   **Verdict:** **Strong Candidate.**
+    *   **Pros:** Longest experience (8 years), strong focus on testing and AWS.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 7. Rhea Reed (Chennai)
+*   **Role:** Engineer / Business Analyst
+*   **Experience:** 2 Years
+*   **Education:** BCA (2023)
+*   **Key Skills:** Linux, Power BI, Java, JavaScript, Python, PostgreSQL
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Good mix of backend and analytics skills.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 8. Sven Shaw (Mumbai)
+*   **Role:** Analyst / Software Engineer
+*   **Experience:** 10 Years
+*   **Education:** BCA (2015)
+*   **Key Skills:** SQL, JavaScript, Jira, Linux, Java, Python, FastAPI
+*   **Verdict:** **Strong Candidate.**
+    *   **Pros:** Most experienced candidate (10 years), broad skill set including FastAPI.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 9. Tala Thorn (Kochi)
+*   **Role:** Engineer / Backend Developer
+*   **Experience:** 3 Years
+*   **Education:** BCA (2022)
+*   **Key Skills:** PostgreSQL, Docker, Linux, FastAPI, SQL
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Strong backend stack with specific focus on testing and clear code.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 10. Asha Alder (Kochi)
+*   **Role:** Analyst / Backend Developer
+*   **Experience:** 1 Year
+*   **Education:** B.Sc Mathematics (2022)
+*   **Key Skills:** JavaScript, SQL, Git, AWS basics, Java, Power BI, Linux
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Good foundational skills with recent experience.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 11. Bram Brook (Mumbai)
+*   **Role:** QA Engineer / Engineer
+*   **Experience:** 3 Years
+*   **Education:** MCA (2020)
+*   **Key Skills:** SQL, AWS basics, JavaScript, Power BI
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Focus on testing and QA.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 12. Chen Cole (Bengaluru)
+*   **Role:** Analyst / Data Analyst
+*   **Experience:** 5 Years
+*   **Education:** B.Sc Mathematics (2018)
+*   **Key Skills:** Python, JavaScript, AWS basics, PostgreSQL
+*   **Verdict:** **Good Candidate.**
+    *   **Pros:** Strong data skills with a focus on testing.
+    *   **Cons:** Resume appears 3 times in the input data.
+
+#### 13. Dara Dunn (Chennai)
+*   **Role:** Engineer / QA Engineer
+*   **Experience:** 7 Years
+*   **Education:** M.Sc Statistics (2018)
+*   **Key Skills:** JavaScript, Excel, Testing, Jira, PostgreSQL, Power BI, AWS basics
+*   **

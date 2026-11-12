@@ -1,0 +1,44 @@
+
+Extract the information from the following CV.
+
+Return only valid JSON. Do not include markdown, explanations, or any text outside the JSON.
+
+IMPORTANT:
+1. Use exactly the JSON keys shown in the example below.
+2. Do not change key names.
+3. Use snake_case for all keys.
+4. Do not use spaces or capital letters in JSON keys.
+5. If information is missing, return null for optional fields.
+6. Return an empty array if no skills, experience, or education are found.
+7. Never invent information.
+8. Extract only information explicitly present in the CV.
+
+Expected JSON structure:
+
+{
+  "full_name": null,
+  "email": null,
+  "phone": null,
+  "location": null,
+  "summary": null,
+  "skills": [],
+  "experience": [
+    {
+      "job_title": null,
+      "company": null,
+      "start_year": null,
+      "end_year": null
+    }
+  ],
+  "education": [
+    {
+      "degree": null,
+      "graduation_year": null
+    }
+  ]
+}
+
+Replace null values with actual information when available.
+If there is no experience or education, return an empty array.
+
+CV TEXT:

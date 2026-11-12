@@ -1,0 +1,34 @@
+Based on the resumes provided, here is a concise summary of the candidates' profiles, highlighting their technical skills, experience levels, and common interests.
+
+### **Candidate Profiles Summary**
+
+| Name | Role | Experience Level | Key Tech Stack | Location |
+| :--- | :--- | :--- | :--- | :--- |
+| **Goran Grove** | Analyst / DevOps | 1 Year | Testing, Git, SQL, AWS, Linux | Bengaluru |
+| **Hana Hale** | Engineer | 6 Years | FastAPI, Testing, Git, SQL, Excel, Linux | Pune |
+| **Ivo Ivey** | Engineer | 10 Years | AWS, Testing, PostgreSQL, Python, SQL, Git, Java | Pune |
+| **Jun Joyce** | Engineer | 11 Years | FastAPI, Testing, Linux, Docker, Jira | Bengaluru |
+| **Kaya Kent** | Engineer | 1 Year | Linux, SQL, AWS, Jira, JS, Git | Mumbai |
+| **Lars Lowe** | Analyst | 4 Years | JavaScript, PostgreSQL, Docker, Java, FastAPI, Testing | Delhi |
+| **Mira Marsh** | Engineer | 2 Years | Docker, SQL, Excel, Python | Kochi |
+| **Noor Nash** | Engineer | 2 Years | Jira, Python, Git, Java, Power BI | Kochi |
+| **Oren Orr** | Analyst | 9 Years | Docker, Python, Excel, Java | Chennai |
+| **Pia Penn** | Analyst | 6 Years | Java, JS, Jira, AWS, Git, SQL | Bengaluru |
+| **Quin Quill** | Analyst | 8 Years | JavaScript, AWS, Linux, Excel, Testing | Kochi |
+| **Rhea Reed** | Engineer | 2 Years | Linux, Power BI, Java, JS, Python, PostgreSQL | Chennai |
+| **Sven Shaw** | Analyst | 10 Years | SQL, JS, Jira, Linux, Java, Python, FastAPI | Mumbai |
+| **Tala Thorn** | Engineer | 3 Years | PostgreSQL, Docker, Linux, FastAPI, SQL | Kochi |
+
+### **Key Observations & Trends**
+
+*   **Dominant Tech Stack:** The most frequently cited technologies across all profiles are **Python**, **SQL/PostgreSQL**, and **Git**.
+*   **DevOps Focus:** Several candidates (Grove, Ivey, Joyce, Kaya, Mira, Noor, Oren, Pia, Quin, Sven) have significant experience in DevOps roles involving Docker, AWS, and Linux.
+*   **Data & Analytics:** A strong presence of data analysis skills is seen in roles like "Analyst," "Business Analyst," and "QA Engineer," utilizing tools like Power BI, Excel, and Jira.
+*   **Experience Range:** Candidates range from 1 year (Grove, Kaya) to 11 years (Jun Joyce).
+*   **Common Interest:** All candidates explicitly mention a preference for **"clear tests and short pull requests."**
+
+### **Potential Hiring Insights**
+If you are looking to hire based on these profiles:
+1.  **For Backend Development:** Focus on **Ivo Ivey**, **Jun Joyce**, **Sven Shaw**, and **Tala Thorn**. They have strong backgrounds in FastAPI, Python, and PostgreSQL with extensive experience.
+2.  **For DevOps/Infrastructure:** Consider **Goran Grove**, **Kaya Kent**, **Mira Marsh**, **Noor Nash**, and **Oren Orr**. They possess solid Linux/AWS/Docker skills suitable for infrastructure roles.
+3.  **For Data Analysis/QA:** **Hana Hale** and **Pia Penn** offer strong analytical backgrounds with relevant tooling (Power BI, Jira).
