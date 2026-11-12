@@ -1,0 +1,245 @@
+
+========== Temperature 0 - Run 1 ==========
+Temperature: 0
+Seed: None
+Time: 74.69 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": 2022
+    }
+  ]
+}
+
+========== Temperature 0 - Run 2 ==========
+Temperature: 0
+Seed: None
+Time: 39.44 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": 2022
+    }
+  ]
+}
+
+========== Temperature 0 - Run 3 ==========
+Temperature: 0
+Seed: None
+Time: 42.41 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": 2022
+    }
+  ]
+}
+
+========== Temperature 0.8 - Run 1 ==========
+Temperature: 0.8
+Seed: None
+Time: 39.20 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": "2024",
+      "end_year": "2025"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": "2022"
+    }
+  ]
+}
+
+========== Temperature 0.8 - Run 2 ==========
+Temperature: 0.8
+Seed: None
+Time: 41.80 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": 2022
+    }
+  ]
+}
+
+========== Temperature 0.8 - Run 3 ==========
+Temperature: 0.8
+Seed: None
+Time: 38.80 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": 2022
+    }
+  ]
+}
+
+========== Fixed seed 42 ==========
+Temperature: 0.8
+Seed: 42
+Time: 42.77 seconds
+{
+  "full_name": "Asha Alder",
+  "email": "asha.alder@example.com",
+  "phone": "+00 555 588 8287",
+  "location": "Kochi",
+  "summary": "Analyst with 1 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "JavaScript",
+    "SQL",
+    "Git",
+    "AWS basics",
+    "Java",
+    "Power BI",
+    "Linux"
+  ],
+  "experience": [
+    {
+      "job_title": "Backend Developer",
+      "company": "Stonebridge Software",
+      "start_year": "2024",
+      "end_year": "2025"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc Mathematics",
+      "graduation_year": "2022"
+    }
+  ]
+}

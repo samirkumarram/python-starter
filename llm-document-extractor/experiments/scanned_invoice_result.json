@@ -1,0 +1,13 @@
+{
+    "invoice_number": "INV-2026-0533",
+    "invoice_date": "2026-03-14",
+    "due_date": "2026-04-13",
+    "seller_name": "Harbourlight Stationers (invented)",
+    "buyer_name": "Demo Customer Co (invented)",
+    "seller_address": "12 Example Street, Sampletown (invented address)",
+    "buyer_address": null,
+    "total_amount": 26786.0,
+    "tax_amount": 4086.0,
+    "currency": null,
+    "payment_status": null
+}
