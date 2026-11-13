@@ -1,0 +1,24 @@
+{
+  "counts_by_level": {
+    "INFO": 2,
+    "ERROR": 2,
+    "WARNING": 1
+  },
+  "top_errors": [
+    {
+      "message": "Database connection failed",
+      "count": 2
+    }
+  ],
+  "time_range": {
+    "start": "2026-10-29T09:15:00",
+    "end": "2026-10-29T09:19:00"
+  },
+  "bad_line_count": 1,
+  "bad_lines": [
+    {
+      "line_number": 5,
+      "content": "THIS IS A BAD LOG LINE"
+    }
+  ]
+}
