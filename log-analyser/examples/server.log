@@ -1,0 +1,6 @@
+2026-10-29 09:15:00 INFO Application started
+2026-10-29 09:16:00 ERROR Database connection failed
+2026-10-29 09:17:00 WARNING High memory usage
+2026-10-29 09:18:00 ERROR Database connection failed
+THIS IS A BAD LOG LINE
+2026-10-29 09:19:00 INFO Request completed
